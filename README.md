@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
     de modelos de Machine Learning.
       
 - Me encuentro aprendiendo: 
-  - La carrera de Data Science en CoderHouse [coderhouse.com](https://www.coderhouse.com/online/carrera-online-data-scientist)
+  - La carrera de Data Science en CoderHouse  [coderhouse.com](https://www.coderhouse.com/online/carrera-online-data-scientist)
   - Curso práctico de bases de datos [Udemy.com](https://www.udemy.com/course/database-course/learn/lecture/9038844?start=90#overview)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Libro](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg"></code>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
