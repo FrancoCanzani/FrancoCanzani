@@ -53,7 +53,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCanzani&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCanzani&hide=jupyter%20notebooks&how_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
