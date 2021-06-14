@@ -52,6 +52,8 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code> <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>
+
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCanzani&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
