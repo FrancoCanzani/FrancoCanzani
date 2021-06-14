@@ -55,6 +55,6 @@ You can use the website to generate badges: https://shields.io/
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCanzani&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![Profile View Counter](https://komarev.com/ghpvc/?username=FrancoCanzani)
 
 </p>
