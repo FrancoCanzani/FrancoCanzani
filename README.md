@@ -13,26 +13,25 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/francanzani/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:francocanzani@gmail.com)
 &nbsp;
-## I'm pasionate about logistics and learning new things, trying to be better every day.
 
-- Right now I'm going through The Odin Project, looking to be able to make a living out of frontend development.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I work on logistics as i like to work on supply chain solutions
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 Right now I'm going through **The Odin Project**, looking to be able to make a living out of frontend development.
+- 📖 I am currently reading **Eloquent Javascript** by Marijn Haverbeke
+- 💬 Talk to me about sports, programming, silicon valley & startups
+- 👯 We can connect to play some games of Chess ♟
+- 📌 Fun fact: I was born in Argentia, live in Spain but have italian citizenship
 
 
-### - 🧑‍💻 Tech I work on :
+## 🧑‍💻 Tech I work on :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-
-
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoCanzani&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
