@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I work on logistics as i like to work on supply chain solutions
+- 🏦 I work on logistics as I like to work on supply chain solutions
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 Right now I'm going through **The Odin Project**, looking to be able to make a living out of frontend development.
 - 📖 I am currently reading **Eloquent Javascript** by Marijn Haverbeke
