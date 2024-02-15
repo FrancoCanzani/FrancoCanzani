@@ -4,9 +4,6 @@
 
 
 ### Hi! I'm Franco! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/FrancoCanzani)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-canzani/)
@@ -17,8 +14,8 @@ You can use the website to generate badges: https://shields.io/
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I work on logistics as I like to work on supply chain solutions
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Right now I'm going through **The Odin Project**, looking to be able to make a living out of frontend development.
-- 📖 I am currently reading **Eloquent Javascript** by Marijn Haverbeke
+- 💻 Right now I'm going through **boot.dev**, looking to be able to make a living out of software development one day.
+- 📖 I am currently reading **Grokking Algorithms** by Aditya Y. Bhargava
 - 💬 Talk to me about sports, programming, silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - 📌 Fun fact: I was born in Argentia, live in Spain but have italian citizenship
